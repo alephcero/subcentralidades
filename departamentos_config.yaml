@@ -1,0 +1,24 @@
+avellaneda:
+  eps: 200
+  min_samples: 10
+  nombre_osm: Partido de Avellaneda, Buenos Aires, Argentina
+berazategui:
+  eps: 70
+  min_samples: 10
+  nombre_osm: Partido de Berazategui, Buenos Aires, Argentina
+brown:
+  eps: 200
+  min_samples: 10
+  nombre_osm: Partido de Almirante Brown, Argentina
+caba:
+  eps: 70
+  min_samples: 25
+  nombre_osm: Buenos Aires, Argentina
+lanus:
+  eps: 200
+  min_samples: 10
+  nombre_osm: Partido de Lanus, Buenos Aires, Argentina
+quilmes:
+  eps: 70
+  min_samples: 10
+  nombre_osm: Partido de Quilmes, Buenos Aires, Argentina

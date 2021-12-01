@@ -1,0 +1,7 @@
+jupyter
+pandas
+osmnx
+geopandas
+scikit-learn
+pyyaml
+
